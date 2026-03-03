@@ -9,7 +9,7 @@
 
 9h30  Lecture: Olivier Marre - computational principles in the retina
 
-11h   Lecture: Matthew Chalk - computational principles in V1
+11h   Lecture: Ulisse Ferrari (sorry Matthew Chalk) - computational principles in V1
 
 12h30 Lunch
 

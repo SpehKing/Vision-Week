@@ -3,7 +3,7 @@
 **Location:**
 45 rue d'ulm
 
-Salle W (directions coming soon)
+Salle W (see directions in wiki - including a map)
 
 
 **Program:**
